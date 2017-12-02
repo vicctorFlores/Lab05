@@ -1,0 +1,10 @@
+C:\Users\victorflores\source\repos\Lab05\Lab05\bin\Debug\Lab05.exe.config
+C:\Users\victorflores\source\repos\Lab05\Lab05\bin\Debug\Lab05.exe
+C:\Users\victorflores\source\repos\Lab05\Lab05\bin\Debug\Lab05.pdb
+C:\Users\victorflores\source\repos\Lab05\Lab05\obj\Debug\Lab05.csprojResolveAssemblyReference.cache
+C:\Users\victorflores\source\repos\Lab05\Lab05\obj\Debug\Lab05.ManPerson.resources
+C:\Users\victorflores\source\repos\Lab05\Lab05\obj\Debug\Lab05.Properties.Resources.resources
+C:\Users\victorflores\source\repos\Lab05\Lab05\obj\Debug\Lab05.csproj.GenerateResource.Cache
+C:\Users\victorflores\source\repos\Lab05\Lab05\obj\Debug\Lab05.csproj.CoreCompileInputs.cache
+C:\Users\victorflores\source\repos\Lab05\Lab05\obj\Debug\Lab05.exe
+C:\Users\victorflores\source\repos\Lab05\Lab05\obj\Debug\Lab05.pdb
